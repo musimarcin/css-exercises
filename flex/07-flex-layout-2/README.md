@@ -1,6 +1,7 @@
 # The Holy Grail of Layout
 
-In this last flexbox exercise you're going to recreate an incredibly common website layout. It is so common that it is often called the [Holy Grail](https://www.google.com/search?q=holy+grail+layout&tbm=isch&sclient=img) layout... and with flexbox it is actually pretty easy to pull off.
+In this last flexbox exercise you're going to recreate an incredibly common website layout. It is so common that it is often called the 
+[Holy Grail](https://www.google.com/search?q=holy+grail+layout&tbm=isch&sclient=img) layout... and with flexbox it is actually pretty easy to pull off.
 
 As with the previous exercise, we've left a little more for you to do.
 
@@ -23,7 +24,8 @@ On a smaller screen it will look like this:
 ### Self Check
 - The header text is size 32px and weight 900.
 - The header text is vertically centered and 16px from the edge of the screen.
-- The footer is pushed to the bottom of the screen (the footer may go _below_ the bottom of the screen if the content of the 'cards' section overflows and/or if your screen is shorter).
+- The footer is pushed to the bottom of the screen (the footer may go _below_ the bottom of the screen if the content of the 'cards' 
+section overflows and/or if your screen is shorter).
 - The footer text is centered horizontally and vertically.
 - The sidebar and cards take up all available space above the footer.
 - The sidebar is 300px wide (and it doesn't shrink).
